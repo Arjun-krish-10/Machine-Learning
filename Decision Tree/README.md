@@ -1,0 +1,1 @@
+Implementing Decsion Tree classifier on Donor Choose dataset with cross validation and hyper parameter tuning. Word2Vec and TFIDF-Avg-Word2Vec is used to encode text data and further analysis has been done.
